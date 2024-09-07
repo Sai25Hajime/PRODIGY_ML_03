@@ -1,5 +1,5 @@
 # PRODIGY_ML_03
-We have Implemented a support vector machine (SVM) to classify images of cats and dogs from the Kaggle dataset
+I have implemented a support vector machine (SVM) based on Task-03: Task-03: "Implement a support vector machine (SVM) to classify images of cats and dogsfrom the Kaggle dataset". The goal of this task was to build a machine learning model that can accurately classify images as either cats or dogs using a Support Vector Machine (SVM) algorithm. The dataset used for this task was sourced from Kaggle and included images of both cats and dogs.
 
 # Dataset
 Here is the dataset used: https://www.kaggle.com/competitions/dogs-vs-cats/data. You will find the photos used in the SVM model for train and test.
@@ -32,7 +32,7 @@ Understood the importance of model evaluation in assessing the effectiveness of 
 **6. Error Handling and Debugging:** Developed skills in debugging and handling errors related to data loading, preprocessing, and model training.
 Identified and resolved issues related to data inconsistencies and class imbalances.
 
-7. Practical Application of Machine Learning Techniques: Applied theoretical concepts of machine learning and SVMs to a real-world image classification problem, bridging the gap between theory and practical application. Enhanced understanding of the end-to-end process of training and evaluating machine learning models.
+**7. Practical Application of Machine Learning Techniques:** Applied theoretical concepts of machine learning and SVMs to a real-world image classification problem, bridging the gap between theory and practical application. Enhanced understanding of the end-to-end process of training and evaluating machine learning models.
 
-8. Experience with Google Colab and Cloud Storage: Utilized Google Colab for implementing and running the code, gaining experience with cloud-based tools and integrating them with cloud storage solutions.
+**8. Experience with Google Colab and Cloud Storage:** Utilized Google Colab for implementing and running the code, gaining experience with cloud-based tools and integrating them with cloud storage solutions.
 
