@@ -11,6 +11,9 @@ Here is the dataset used: https://www.kaggle.com/competitions/dogs-vs-cats/data.
 4. Add a Code cell above the given code in the ipynb file to mount your Google drive.
 5. Then use the code given in the .ipynb file.
 
+# Warning
+Please use the train and test zip files from the website as it contains a lot more photos and so the model will be more accurate.
+
 # Code Execution
 The code is inside the SVM_Cat_vs_Dog_Classification.ipynb file. Do the above steps and then execute the code given. The SVM is trained on the photos contained in the train and test files.
 
